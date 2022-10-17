@@ -1,0 +1,19 @@
+{
+  "name": "im-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "cos-js-sdk-v5": "^1.4.6",
+    "tim-js-sdk": "^2.23.1",
+    "tim-upload-plugin": "^1.0.5",
+    "vue": "^3.2.38"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
